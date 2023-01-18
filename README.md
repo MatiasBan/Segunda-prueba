@@ -1,2 +1,1 @@
-# Segunda-prueba
-Esta es la segunda prueba, la primera fallo
+Este proyecto es una prueba de como crear un repositorio y como clonarlo desde github a mi escritorio local
